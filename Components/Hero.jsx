@@ -28,7 +28,7 @@ const Hero = () => {
         />
         <div className="flex flex-col  justify-center items-center flex-wrap gap-y-10  lg:pt-2 pb-8 px-8 ">
           <p className="text-2xl font-semibold capitalize pt-2 md:pt-0">
-            Hello I am Bashir Mohammed
+            Hello I am Bashir Hassan
           </p>
           <div className="text-xl lg:text-3xl font-medium capitalize ">
             <Writer />

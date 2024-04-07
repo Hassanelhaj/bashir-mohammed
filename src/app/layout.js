@@ -3,7 +3,7 @@ import "./globals.css";
 import Root from "./Root";
 
 export const metadata = {
-  title: "Bashir Mohammed ",
+  title: "Bashir Hassan ",
   description: "developed by hassan ",
 };
 
